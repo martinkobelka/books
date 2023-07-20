@@ -5,7 +5,7 @@
 use yii\helpers\Html;
 use yii\helpers\Url;
 
-$this->title = 'My Yii Application';
+$this->title = 'Databáze knih';
 
 ?>
 <div class="site-index">
